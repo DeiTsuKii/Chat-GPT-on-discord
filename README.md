@@ -2,6 +2,6 @@ to use this bot you must install discord.js and openai you must also create anot
 
 TOKEN = token of your bot discord
 API_KEY = api openai key
-CHANNEL_ID = channel id or chat gpt speakas
+CHANNEL_ID = channel id for chat gpt
 
 important : you'll need to top up your api openai account balance for this to work.
