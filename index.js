@@ -11,7 +11,7 @@ const client = new Client({
 });
 
 client.on("ready", () => {
-  console.log("Le Bot est connecté");
+  console.log("Bot connected.");
 });
 
 const configuration = new Configuration({
